@@ -91,10 +91,10 @@
 
         FUNCTION {
             bindings = <
-&kp K_COPY    &kp K_PASTE    &kp K_CUT  &kp K_UNDO  &kp K_FIND                       &kp LC(LA(LEFT))  &kp LA(LC(RIGHT))  &kp LA(LC(UP))  &kp LA(LC(DOWN))   &kp F5
-&kp LG(PLUS)  &kp LG(MINUS)  &trans     &trans      &trans      &trans      &kp F13  &kp LA(LC(U))     &kp LA(LC(I))      &kp LA(LC(I))   &kp LA(LC(K))      &kp F10
-&trans        &trans         &trans     &trans      &trans      &trans      &trans   &kp LA(LC(D))     &kp LA(LC(F))      &kp LA(LC(G))   &kp LA(LC(ENTER))  &kp F11
-&trans        &trans         &trans     &trans      &trans      &trans      &trans   &trans                                                                  &kp F12
+&kp K_COPY       &kp K_PASTE    &kp K_CUT  &kp K_UNDO  &kp K_FIND                       &kp LC(LA(LEFT))  &kp LA(LC(RIGHT))  &kp LA(LC(UP))  &kp LA(LC(DOWN))   &kp F5
+&kp LG(PLUS)     &kp LG(MINUS)  &trans     &trans      &trans      &trans      &kp F13  &kp LA(LC(U))     &kp LA(LC(I))      &kp LA(LC(I))   &kp LA(LC(K))      &kp F10
+&kp LC(LS(TAB))  &kp LC(TAB)    &trans     &trans      &trans      &trans      &trans   &kp LA(LC(D))     &kp LA(LC(F))      &kp LA(LC(G))   &kp LA(LC(ENTER))  &kp F11
+&trans           &trans         &trans     &trans      &trans      &trans      &trans   &trans                                                                  &kp F12
             >;
         };
 
